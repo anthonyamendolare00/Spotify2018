@@ -1,0 +1,2 @@
+# Spotify2018
+This program looks at Spotify data for 2018. The top 100 songs are in the CSV file. I took the data and visualized the attributes that define these songs. Using statistics, I tried to find the differences between the top 10 songs compared to the top 11-100 songs of the top 100 on Spotify. If statements are implemented in to show how you can use if statements to compare data attributes. The goal of this project was to work with a different type of data set and try to find any trend between these songs (music characteristics).
